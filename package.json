@@ -1,0 +1,28 @@
+{
+  "name": "bodong-persional-financetracker",
+  "version": "1.0.0",
+  "description": "A CLI application for tracking personal finances, including expenses, income, and savings.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/storebodong/bodong-persional-financetracker"
+    },
+  "homepage": "https://twitter.com/Dehan_Koran",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "lowdb": "^1.0.0",
+    "shortid": "^2.2.16",
+    "inquirer": "^8.0.0",
+    "bodong-persional-financetracker": "^1.0.0"
+  },
+  "author": "Bodong",
+  "license": "ISC"
+}
+
+
+
+
+
